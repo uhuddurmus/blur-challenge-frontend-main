@@ -2,11 +2,16 @@
 <img width="1896" height="767" alt="image" src="https://github.com/user-attachments/assets/2698e129-2560-4790-91af-6aea3bad9c05" />
 <img width="1918" height="899" alt="image" src="https://github.com/user-attachments/assets/24b55834-40a8-4659-8630-46e3e1926e05" />
 <img width="1908" height="896" alt="image" src="https://github.com/user-attachments/assets/416cb07d-44ef-4ac0-a9e2-aa64ac09fc9e" />
+<img width="1907" height="899" alt="image" src="https://github.com/user-attachments/assets/36a5a91b-2b89-4aa7-a5e5-0e723fc4ee77" />
+<img width="1905" height="946" alt="image" src="https://github.com/user-attachments/assets/7675c80b-e70d-47a7-b851-ceb3bd6ac092" />
+
 hatalar;
 <img width="1903" height="888" alt="image" src="https://github.com/user-attachments/assets/eb130445-5156-40f4-b87d-4a22116f4940" />
 <img width="1914" height="898" alt="image" src="https://github.com/user-attachments/assets/3a1fbf64-84ba-4902-995b-26283332a18c" />
 başarı
 <img width="1910" height="901" alt="image" src="https://github.com/user-attachments/assets/736b632f-a6a7-4980-bb03-2157cc303300" />
+<img width="1908" height="901" alt="image" src="https://github.com/user-attachments/assets/d3d0a692-240c-4dc3-82b1-bc0a2cbebfd3" />
+<img width="1909" height="897" alt="image" src="https://github.com/user-attachments/assets/e9d798d6-d65b-4536-906a-3af35bce6ba7" />
 
 
 
