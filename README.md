@@ -1,3 +1,21 @@
+
+<img width="1896" height="767" alt="image" src="https://github.com/user-attachments/assets/2698e129-2560-4790-91af-6aea3bad9c05" />
+<img width="1918" height="899" alt="image" src="https://github.com/user-attachments/assets/24b55834-40a8-4659-8630-46e3e1926e05" />
+<img width="1908" height="896" alt="image" src="https://github.com/user-attachments/assets/416cb07d-44ef-4ac0-a9e2-aa64ac09fc9e" />
+hatalar;
+<img width="1903" height="888" alt="image" src="https://github.com/user-attachments/assets/eb130445-5156-40f4-b87d-4a22116f4940" />
+<img width="1914" height="898" alt="image" src="https://github.com/user-attachments/assets/3a1fbf64-84ba-4902-995b-26283332a18c" />
+başarı
+<img width="1910" height="901" alt="image" src="https://github.com/user-attachments/assets/736b632f-a6a7-4980-bb03-2157cc303300" />
+
+
+
+
+
+
+
+
+
 # Blur Challenge
 
 ### Tam Zamanlı Full-Stack Pozisyonu
